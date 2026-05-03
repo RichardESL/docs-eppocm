@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-r5h16b.premiumvvipbidwin88.com/sitemap.xml
